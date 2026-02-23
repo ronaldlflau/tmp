@@ -1,4 +1,4 @@
-module github.com/katiem0/gh-branch-rules
+module github.com/ronaldlflau/tmp
 
 go 1.22
 
