@@ -4,7 +4,7 @@ import (
 	"strconv"
 
 	"github.com/cli/go-gh/v2/pkg/api"
-	"github.com/katiem0/gh-branch-rules/internal/data"
+	"github.com/ronaldlflau/tmp/internal/data"
 	"github.com/shurcooL/graphql"
 )
 
