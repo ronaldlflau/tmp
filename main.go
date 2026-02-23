@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/katiem0/gh-branch-rules/cmd"
+	"github.com/ronaldlflau/tmp/cmd"
 )
 
 func main() {
