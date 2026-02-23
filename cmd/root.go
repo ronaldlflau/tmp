@@ -3,8 +3,8 @@ package cmd
 import (
 	"github.com/spf13/cobra"
 
-	listCmd "github.com/katiem0/gh-branch-rules/cmd/list"
-	updateCmd "github.com/katiem0/gh-branch-rules/cmd/update"
+	listCmd "github.com/ronaldlflau/tmp/cmd/list"
+	updateCmd "github.com/ronaldlflau/tmp/cmd/update"
 )
 
 func NewCmdRoot() *cobra.Command {
