@@ -7,9 +7,9 @@ import (
 
 	"github.com/cli/go-gh/v2/pkg/api"
 	"github.com/cli/go-gh/v2/pkg/auth"
-	"github.com/katiem0/gh-branch-rules/internal/data"
-	"github.com/katiem0/gh-branch-rules/internal/log"
-	"github.com/katiem0/gh-branch-rules/internal/utils"
+	"github.com/ronaldlflau/tmp/internal/data"
+	"github.com/ronaldlflau/tmp/internal/log"
+	"github.com/ronaldlflau/tmp/internal/utils"
 	"github.com/spf13/cobra"
 	"go.uber.org/zap"
 )
